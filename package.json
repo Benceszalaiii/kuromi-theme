@@ -1,0 +1,23 @@
+{
+  "name": "kuromi-theme",
+  "displayName": "kuromi-theme",
+  "description": "A Kuromi inspired purple, dark theme made just for her",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^0.10.5"
+  },
+  "publisher": "benceszalaiii",
+  "icon": "logo.webp",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kuromi theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pink theme-color-theme.json"
+      }
+    ]
+  }
+}
