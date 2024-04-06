@@ -2,7 +2,7 @@
   "name": "kuromi-theme",
   "displayName": "kuromi-theme",
   "description": "A Kuromi inspired purple, dark theme made just for her",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^0.10.5"
   },
