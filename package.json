@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^0.10.5"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benceszalaiii/kuromi-theme.git"
+  },
   "publisher": "benceszalaiii",
   "icon": "logo.webp",
   "categories": [
